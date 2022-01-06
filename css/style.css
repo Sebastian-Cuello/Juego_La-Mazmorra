@@ -1,0 +1,17 @@
+body{
+    background: url(../img/Fondo.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
+#canvas{
+    display: block;
+    margin: 75px auto 100px;
+}
+
+#titulo{
+    text-align: center;
+    font-size: 72px;
+    margin: 0px;
+    color: white;
+}
